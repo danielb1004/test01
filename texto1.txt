@@ -1,1 +1,2 @@
-esta es una prueba para probar git
+esta es una prueba para probar git 
+esta es la historia de mi vida
